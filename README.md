@@ -29,13 +29,5 @@
 
 ### 🌟 赞助支持
 如果你喜欢我的项目，并愿意支持我的开发，可以考虑在以下平台给我买杯咖啡：  
-[![爱发电]([https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hocha113](https://afdian.com/a/hocha113))  
-
----
-
-💡 **正在进行的项目**:  
-🔹 **[模组名称]** - [简要介绍] | [GitHub 项目地址](https://github.com/hocha113/你的模组仓库)  
-🔹 **[工具/库名称]** - [简要介绍] | [GitHub 项目地址](https://github.com/hocha113/你的工具仓库)  
-
-🚀 **更多精彩，敬请期待！**
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)]([https://www.buymeacoffee.com/hocha113](https://afdian.com/a/hocha113))  
 
