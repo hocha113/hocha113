@@ -1,5 +1,7 @@
-﻿### 👋 欢迎来到我的 GitHub 主页！
+### 👋 欢迎来到我的 GitHub 主页！
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hocha113&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=percentile"/>
+<div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocha113&locale=cn&line_height=33&theme=dark&langs_count=5&layout=compact&custom_title=常用的开发语言"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=hocha113&theme=git_dark&column=7&margin-w=15&margin-h=15&no-bg=true" />
+</a>
